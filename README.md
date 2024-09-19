@@ -1,13 +1,8 @@
 #
 # My Personal Portfilio Website (Django)
 
-Personal portfolio website made with Django framework in the backend, and with CSS, JS, and Bootstrap for the frontend. It is a dynamic site so that you can control the content of the site through the admin area
+Personal portfolio website made with Django framework in the backend, and with CSS, JS, and Bootstrap for the frontend.
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
 
 ## Screenshots
 
@@ -30,13 +25,13 @@ Personal portfolio website made with Django framework in the backend, and with C
 Clone the project
 
 ```bash
-  git clone https://github.com/BurhanMohammad/Django-portfilio-website.git
+  git clone https://github.com/nkueterman/django-portfolio-website.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Django-portfilio-websitet
+  cd django-portfolio-website
 ```
 
 MAKE  Migration
