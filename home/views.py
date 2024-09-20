@@ -15,8 +15,11 @@ def home(request):
     return render(request, 'home.html')
 
 
-def project(request):
-    return render(request, 'project.html')
+def dr_project(request):
+    return render(request, 'dr_project.html')
+
+def kcb_project(request):
+    return render(request, 'kcb_project.html')
 
 
 def contact(request):
