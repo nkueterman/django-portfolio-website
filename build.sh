@@ -2,8 +2,6 @@
 # Exit on error
 set -o errexit
 
-sudo apt-get install libpq-dev
-
 # Modify this line as needed for your package manager (pip, poetry, etc.)
 pip install -r requirements.txt
 
